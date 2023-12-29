@@ -1,0 +1,25 @@
+800
+100000
+100000
+10000
+0.28
+10
+0.00
+0.005
+75
+0.1
+25
+0.5
+
+days to simulate
+num steps
+starting pop
+infected pop
+disease trans rate
+days to recover
+birthrate
+deathrate
+immunity days
+vaccination rate
+vaccination duration
+vac efficiency
